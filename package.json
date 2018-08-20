@@ -1,0 +1,13 @@
+{
+  "name": "learnVueProps",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
