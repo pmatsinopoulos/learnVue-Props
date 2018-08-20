@@ -16,5 +16,8 @@
     "watch": "webpack --watch",
     "start": "webpack --watch & webpack-dev-server --open-page 'webpack-dev-server/dist'",
     "build": "webpack"
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
   }
 }
