@@ -1,2 +1,4 @@
 .idea
+dist/main.js
 
+yarn.lock
